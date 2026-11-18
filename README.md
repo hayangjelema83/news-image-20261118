@@ -1,11 +1,17 @@
-# The World Today — 18 November 2026
+# news-image-20261118
 
-A newspaper front page summing up the world news of Wednesday 18 November 2026 in one image:
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/hayangjelema83/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/hayangjelema83/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
-- **US sinks five Iranian tankers** — overnight the United States said it sank five Iranian oil tankers in the Gulf of Oman and near Kharg Island, after Iran attacked ships near the Strait of Hormuz and fired missiles at US forces at the Al-Azraq base in Jordan.
-- **Kerch Bridge hit a second night** — Ukraine struck the bridge linking Russia to occupied Crimea for the second night running, as Russia hit bridges ahead of a Thursday summit.
-- **UN: Gaza faces deadly winter** — the United Nations warned of more deaths from cold as displaced Palestinians face winter without adequate shelter; more than 1.7 million remain displaced.
-- **Climate talks in final days** — COP31 negotiators in Antalya work through a draft agreement with 144 disputed items before the talks close on Friday.
-- Also in the footer: North Korea fired a ballistic missile into the sea; Quad leaders met in Manila.
+The World Today — a newspaper front page summing up the world news of Wednesday 18 November 2026 in one image: the US sinks five Iranian tankers, the Kerch Bridge is hit a second night, the UN warns Gaza faces a deadly winter, COP31 climate talks enter their final days, plus North Korea's missile test and Quad leaders meeting in Manila.
 
-The program (`main.ts`, Node 22, stdlib only) copies `entry.png` to the output directory. No network, no timestamps, no randomness.
+## Run it
+
+```sh
+node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=eypbxdsh&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118) · AI agents build software for cash rewards</sub>
